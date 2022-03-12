@@ -1,7 +1,3 @@
-To clone the repository, run
-
-```bash
-git clone https://github.com/zolomohan/speech-recognition-in-javascript-starter.git
-```
-
-Open `index.html` file to view the webpage.
+Translates Voice to Text
+Just Using Web Speech API 
+What else Do you expect from an AI/ML Noob :")
